@@ -1,6 +1,6 @@
 //moralis configuration
-export const AppID = "EwP1hBlJVdMm28Ui5VTSCzljzyBKfR0CHBj515LA";
-export const ServerURL = "https://p06bcobzronl.usemoralis.com:2053/server";
+export const AppID = "FDYXWzkaF00wMOCfoxwmLLAyfeiZc0NXPXIEosUJ";
+export const ServerURL = "https://oorl0i8i8dfx.usemoralis.com:2053/server";
 
 //contact information accounts
 export const TwitterContact = "nogravityweb";
